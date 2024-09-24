@@ -1,3 +1,6 @@
+# Bohuzel dataset ma vic jak 25MB takze nemohu ho sem pridat, ale je na tomto odkaze: 
+# https://www.dropbox.com/scl/fi/ea4g8padrpva3pgculp15/olympics_dataset.csv?rlkey=n45dd921oq6hw5w8i1e8hkz8b&st=sg05mipr&dl=0
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
